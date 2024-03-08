@@ -1,13 +1,12 @@
 import { Grid } from "@mui/material";
 
 
-
-const Home = () => {
+const Blog = () => {
   return (
     <Grid>
-      Home
+      BLog
     </Grid>
   );
 };
 
-export default Home;
+export default Blog;
